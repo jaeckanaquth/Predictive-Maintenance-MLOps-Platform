@@ -4,3 +4,6 @@ data/*
 data
 storage
 storage/*
+
+# ignore all files for configs
+__pycache__
