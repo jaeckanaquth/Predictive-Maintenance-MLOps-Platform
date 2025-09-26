@@ -1,9 +1,14 @@
-model
+#ignore all files for model
 model/*
+
+# ignore all files for data
 data/*
 data
+
+# ignore all files for storage
 storage
 storage/*
 
 # ignore all files for configs
 __pycache__
+.env

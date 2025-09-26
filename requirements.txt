@@ -1,0 +1,12 @@
+pandas
+sqlalchemy
+scikit-learn
+torch
+fastapi
+uvicorn
+flask
+prometheus-client
+grafana-api
+evidently
+apache-airflow
+python-dotenv
